@@ -10,6 +10,12 @@ sites:
   - name: OODATA
     url: https://www.oodata.com.tw/
 
+  - name: Water resources office
+    url: https://www.wranb.gov.tw/
+
+  - name: Water resources office file site
+    url: https://archive.wranb.gov.tw/
+
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: demo.upptime.js.org
