@@ -1,20 +1,11 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your Github repository name
+owner: konekokya # Your GitHub username
+repo: konekoya-github-io-watcher # Your Github repository name
 
 # Add your sites here
 sites:
   - name: konekoya.github.io
     url: https://konekoya.github.io/
-
-  - name: OODATA
-    url: https://www.oodata.com.tw/
-
-  - name: Water resources office
-    url: https://www.wranb.gov.tw/
-
-  - name: Water resources office file site
-    url: https://archive.wranb.gov.tw/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
