@@ -4,8 +4,10 @@ repo: konekoya-github-io-watcher # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: konekoya.github.io
+  - name: konekoya's website
     url: https://konekoya.github.io/
+  - name: My blog
+    url: https://konekoya.github.io/blog/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
